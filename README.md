@@ -1,4 +1,4 @@
-
+![Generate features and predict](https://github.com/therhaag/serverless-ml-course/actions/workflows/features-and-predictions.yml/badge.svg)
 ![readme header](/assets//images/card_horizontal.jpg)
 
 
